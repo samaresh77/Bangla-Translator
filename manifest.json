@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "English to Bengali Translator",
+  "version": "1.0",
+  "description": "Translate English text into Bengali",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": []
+}
